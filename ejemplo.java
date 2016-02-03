@@ -8,6 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.BoxLayout;
 import javax.swing.WindowConstants;
 
+
 public class ejemplo{
 	JFrame frame;
 	JPanel panelSuperior, panelInferior;
